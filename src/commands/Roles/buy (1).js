@@ -16,7 +16,7 @@ export default {
 
     await message.delete().catch(() => null);
     return message.channel.send(
-      `Interested in purchasing Platinum Client? It supports Fabric 1.21.1 and works on Windows & Linux with multiple launchers including Minecraft Launcher, Modrinth App, and Feather Client. Monthly and Lifetime plans are available, and we accept PayPal, LTC, and Donut SMP Money ( 700M )`
+      `Interested in purchasing Kryptic Client? It supports Fabric 1.21.1 and works on Windows & Linux with multiple launchers including Minecraft Launcher, Modrinth App, and Feather Client. Monthly and Lifetime plans are available, and we accept PayPal, LTC, and Donut SMP Money ( 700M )`
     );
   }
 };
